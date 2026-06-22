@@ -171,9 +171,8 @@ Madhav-Sales-Dashboard-PowerBI/
 │   ├── dashboard_overview.png
 │   ├── profit_by_month.png
 │   └── category_analysis.png
-├── README.md
 ├── LICENSE
-└── .gitignore
+└── README.md
 ```
 
 ---
