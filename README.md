@@ -138,6 +138,7 @@ The dashboard is built using two datasets:
 
 ---
 
+
 # 📷 Dashboard Preview
 
 ## 📌 Complete Dashboard
@@ -156,7 +157,6 @@ The dashboard is built using two datasets:
 
 ![Category Analysis](images/category_analysis.png)
 
----
 
 ## 📁 Repository Structure
 
